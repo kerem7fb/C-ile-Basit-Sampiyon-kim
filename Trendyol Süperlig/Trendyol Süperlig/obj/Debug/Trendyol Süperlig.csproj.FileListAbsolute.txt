@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\bin\Debug\Trendyol Süperlig.exe.config
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\bin\Debug\Trendyol Süperlig.exe
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\bin\Debug\Trendyol Süperlig.pdb
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol Süperlig.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol_Süperlig.Form1.resources
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol_Süperlig.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol Süperlig.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol Süperlig.exe
+C:\Users\user\Desktop\10-M\Trendyol Süperlig\Trendyol Süperlig\obj\Debug\Trendyol Süperlig.pdb
